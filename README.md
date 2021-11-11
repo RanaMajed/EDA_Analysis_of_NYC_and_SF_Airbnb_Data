@@ -43,7 +43,7 @@ This a table of the data provided to us by the NYC and SF:
 
 ### Data Description 
 
->I will be useing the "Analysis of NYC and SF Airbnb Data" Dataset from Keggle that can be found [here](https://www.kaggle.com/subhranshunayak/simple-analysis-of-nyc-airbnb-data/data). and [here] (https://www.kaggle.com/charlesea/data-visualization-price-prediction).
+>I will be useing the "Analysis of NYC and SF Airbnb Data" Dataset from Keggle that can be found [here](https://www.kaggle.com/subhranshunayak/simple-analysis-of-nyc-airbnb-data/data). and [here](https://www.kaggle.com/charlesea/data-visualization-price-prediction).
 >New York City Airbnb Data: the dataset has 48895 numbers of rows and 16 numbers of feature/columns. 
 
 >San Francisco City Airbnb Data: the dataset has 8111 numbers of rows and 106 numbers of feature/columns. 
