@@ -22,25 +22,9 @@ Market .is a small company expand its business in real estate at New York and Sa
 The value for the company is to improve the quality of service provided, which leads to client satisfaction. 
 
 This a table of the data provided to us by the NYC and SF:
-| Field Name | Description |
-| --- | --- | --- |
-| ID | Listing ID |
-| Name | Name of the listing |
-| Host_ID | Host Id |
-| Host_name | Name of the host |
-| Neighborhood_Group | Location|
-| Neighborhood | Area |
-| Latitude | Latitude coordinates |
-| Longitude | Longitude coordinates |
-| Room_type | Listing space type |
-| Price | Price in dollars |
-| Minimum_nights | Amount of nights minimum |
-| Number_of_reviews | Number of reviews |
-| Last_review | Latest review |
-| Reviews_per_month | Number of reviews per month |
-| Calculated_host_listings_coun | Amount of listing per host |
-| Availability_365 | Number of days when listing is available for booking |
-| All columns exists in San Francisco City Airbnb Data |
+
+![alt text](https://drive.google.com/uc?export=view&id=1uS8Z76HtxlVNjbsoOlqrEA4WK3b68uow)
+
 
 ### Data Description 
 
