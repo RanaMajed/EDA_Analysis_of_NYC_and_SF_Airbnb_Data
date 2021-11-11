@@ -11,14 +11,11 @@ Data Science (DS) is a data science company specializing in data analytics and d
 ### Background 
 
 Data scientists are analytical experts who utilize their skills in both technology and data analysis; we offer set of services including: 
-
-EDA using python 
-SQL and Machine Learning.
+EDA using python and SQL and Machine Learning.
 
 ### Problem Statement  
 
 Market .is a small company expand its business in real estate at New York and San Francisco City. In this project, DS company will analyze the AirBnB data for each city to find the best locations. Hence, recommending the best location for the new branches so that market company, can achieve their goals to expands in to real estate. 
-
 The value for the company is to improve the quality of service provided, which leads to client satisfaction. 
 
 This a table of the data provided to us by the NYC and SF:
@@ -30,7 +27,6 @@ This a table of the data provided to us by the NYC and SF:
 
 >I will be useing the "Analysis of NYC and SF Airbnb Data" Dataset from Keggle that can be found [here](https://www.kaggle.com/subhranshunayak/simple-analysis-of-nyc-airbnb-data/data). and [here](https://www.kaggle.com/charlesea/data-visualization-price-prediction).
 >New York City Airbnb Data: the dataset has 48895 numbers of rows and 16 numbers of feature/columns. 
-
 >San Francisco City Airbnb Data: the dataset has 8111 numbers of rows and 106 numbers of feature/columns. 
 
 ### Tools  
