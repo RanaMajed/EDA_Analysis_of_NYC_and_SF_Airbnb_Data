@@ -3,6 +3,7 @@
 ![A cute kitten](https://drive.google.com/uc?export=view&id=1bS6yKoT1XD_Y6LMB8HhWvA2MTUhWh9YE)
 
 <center><img src="2R.jpg"></center>
+<img align="right" width="600" height="400" src="2R.jpg">
 
 
 
