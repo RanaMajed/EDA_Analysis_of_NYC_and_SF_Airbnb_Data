@@ -1,9 +1,15 @@
 # EDA Analysis of NYC and SF Airbnb Data
 
-![alt text](https://drive.google.com/uc?export=view&id=1bS6yKoT1XD_Y6LMB8HhWvA2MTUhWh9YE)
-![alt text](https://m.eyeofriyadh.com/news_images/2020/05/2481801a3bd7c.jpg)
-![alt text](https://drive.google.com/uc?export=view&id=1RIm53mhewBP79tKO9X4OytVqlXlN0Kk3)
+![](https://drive.google.com/uc?export=view&id=1bS6yKoT1XD_Y6LMB8HhWvA2MTUhWh9YE)
 
+
+### Backstory
+
+Dear customer, you are welcome.  
+
+We are glad you contacted us last week. Upon your request, we will analyze data for New York and San Francisco to find the best real estate investment locations.
+
+We hope you like our services
 
 
 ### Introduction
@@ -17,8 +23,22 @@ EDA using python and SQL and Machine Learning.
 
 ### Problem Statement  
 
-Market .is a small company expand its business in real estate at New York and San Francisco City. In this project, DS company will analyze the AirBnB data for each city to find the best locations. Hence, recommending the best location for the new branches so that market company, can achieve their goals to expands in to real estate. 
+Market: is a small company expand its business in real estate at New York and San Francisco City. In this project, DS company will analyze the AirBnB data for each city to find the best locations. Hence, recommending the best location for the new branches so that market company, can achieve their goals to expands in to real estate. 
 The value for the company is to improve the quality of service provided, which leads to client satisfaction. 
+
+
+### Question\Need
+
+1-What is the average houses price in each neighbor_group?
+
+2- What is the best number of reviews for each neighbor_group?
+
+3- What is the 5 (max and min )prices for each state?
+
+4- what is the average price for each room type?
+
+5-What is the room type and the most number of types rooms for each states and neighborhood_group?
+
 
 This a table of the data provided to us by the NYC and SF:
 
