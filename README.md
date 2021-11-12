@@ -1,6 +1,6 @@
 # EDA Analysis of NYC and SF Airbnb Data
 
-![A cute kitten](https://drive.google.com/uc?export=view&id=1bS6yKoT1XD_Y6LMB8HhWvA2MTUhWh9YE)
+
 
 <center><img align="center" src="2R.jpg"></center>
 
