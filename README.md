@@ -17,12 +17,12 @@ EDA using python and SQL and Machine Learning.
 
 >Dear customer, you are welcome...  
 
->We are glad you contacted us last week. Upon your request, we will analyze data for New York and San Francisco to find the best real estate investment locations.
+We are glad you contacted us last week. Upon your request, we will analyze data for New York and San Francisco to find the best real estate investment locations.
 
->We hope you like our services.
+We hope you like our services.
 
 >All the best
->2R DS Team
+2R DS Team
 
 ### Problem Statement  
 
