@@ -3,9 +3,7 @@
 
 ![alt text](2R.jpg "Title") 
  
-
-
-
+ 
 ### Introduction
 
 Data Science (DS) is a data science company specializing in data analytics and data science. We provide breakthrough and effective solutions and help clients to achieve their own goals through the utilization of data to improving performance, building forecasting models for better decisions making and solutions.
