@@ -2,7 +2,7 @@
 
 ![title](https://drive.google.com/uc?export=view&id=1bS6yKoT1XD_Y6LMB8HhWvA2MTUhWh9YE)
 
-<img src="2R.jpg"  class='output_png'>
+<center><img src="2R.jpg"></center>
 
 
 
