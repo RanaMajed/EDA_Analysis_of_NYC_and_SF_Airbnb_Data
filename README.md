@@ -64,3 +64,6 @@ This a table of the data provided to us by the NYC and SF:
 ### Conclusion
 
 >In conclusion, this project uses two data sets for New York City Airbnb and San Francisco Airbnb to find the best location to build homes for rent. Hence, we recommend the best location for new branches to achieve company goals and expand their business.  We will use EDA techniques such as cleaning, visualization, and statistical analysis to reach the final conclusion in the next phase of the project. 
+
+>BY: Rana Alturki and Reem Bin zeraiban
+
