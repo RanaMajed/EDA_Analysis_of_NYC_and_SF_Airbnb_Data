@@ -1,7 +1,7 @@
 # EDA Analysis of NYC and SF Airbnb Data
 
 ![title](https://drive.google.com/uc?export=view&id=1bS6yKoT1XD_Y6LMB8HhWvA2MTUhWh9YE)
-                                      <img src="2RD.jpg" width="600" height="340" align="center"/>
+<img src="2RD.jpg" width="600" height="340" align="center"/>
 
 
 
