@@ -42,12 +42,6 @@ The value for the company is to improve the quality of service provided, which l
 
 5-What is the room type and the most number of types rooms for each states and neighborhood_group?
 
-
-This a table of the data provided to us by the NYC and SF:
-
-![alt text](https://drive.google.com/uc?export=view&id=1uS8Z76HtxlVNjbsoOlqrEA4WK3b68uow)
-
-
 ### Data Description 
 
 >I will be useing the "Analysis of NYC and SF Airbnb Data" Dataset from Keggle:
@@ -55,6 +49,11 @@ This a table of the data provided to us by the NYC and SF:
 >New York City Airbnb Data [here](https://www.kaggle.com/subhranshunayak/simple-analysis-of-nyc-airbnb-data/data): the dataset has 48895 numbers of rows and 16 numbers of feature/columns.
  
 >San Francisco City Airbnb Data [here](https://www.kaggle.com/charlesea/data-visualization-price-prediction): the dataset has 8111 numbers of rows and 106 numbers of feature/columns. 
+
+This a table of the data provided to us by the NYC and SF:
+
+![alt text](https://drive.google.com/uc?export=view&id=1uS8Z76HtxlVNjbsoOlqrEA4WK3b68uow)
+
 
 ### Tools  
 
