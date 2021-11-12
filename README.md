@@ -21,7 +21,8 @@ EDA using python and SQL and Machine Learning.
 >We hope you like our services.
 
 >Thank you and all the best
-2R DS Team
+  
+  2R DS Team
 
 ### Problem Statement  
 
