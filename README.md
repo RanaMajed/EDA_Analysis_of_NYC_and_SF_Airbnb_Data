@@ -1,15 +1,9 @@
 # EDA Analysis of NYC and SF Airbnb Data
 
 ![title](https://drive.google.com/uc?export=view&id=1bS6yKoT1XD_Y6LMB8HhWvA2MTUhWh9YE)
+<img src="2R_DS.jpg" width="500" height="240" align="center"/>
 
 
-### Backstory
-
-Dear customer, you are welcome.  
-
-We are glad you contacted us last week. Upon your request, we will analyze data for New York and San Francisco to find the best real estate investment locations.
-
-We hope you like our services
 
 
 ### Introduction
@@ -20,6 +14,14 @@ Data Science (DS) is a data science company specializing in data analytics and d
 
 Data scientists are analytical experts who utilize their skills in both technology and data analysis; we offer set of services including: 
 EDA using python and SQL and Machine Learning.
+
+### Backstory
+
+Dear customer, you are welcome.  
+
+We are glad you contacted us last week. Upon your request, we will analyze data for New York and San Francisco to find the best real estate investment locations.
+
+We hope you like our services
 
 ### Problem Statement  
 
