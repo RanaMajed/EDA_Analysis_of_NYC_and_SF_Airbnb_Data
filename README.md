@@ -21,7 +21,8 @@ We are glad you contacted us last week. Upon your request, we will analyze data 
 
 We hope you like our services.
 
->All the best
+All the best
+
 2R DS Team
 
 ### Problem Statement  
